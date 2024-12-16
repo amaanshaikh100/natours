@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Sass cache
+.sass-cache/
+
+# Compiled CSS
+*.css
+*.css.map
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+
